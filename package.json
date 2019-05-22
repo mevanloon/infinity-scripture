@@ -1,0 +1,15 @@
+{
+  "name": "infinity-scripture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "subtitles-parser": "0.0.2"
+  }
+}
