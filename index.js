@@ -35,27 +35,26 @@ comments.on('item', (comment) => {
     // Comment was created after the bot started, so it won't respond
     // more than once. Also Snoowrap/storm has bug that causes the unix-
     // time to be ahead for 8 hours.
-    console.log('a new comment has been posted!')
-    // const matchedScripture = matchScripture(comment.body)
-    // if(matchedScripture) {
-    //   console.log("Replying: ", matchedScripture.join("\r\n"))
-    //   comment.reply(matchedScripture.join("\r\n"))
-    // }
+    const matchedScripture = matchScripture(comment.body)
+    if(matchedScripture) {
+      console.log("Replying: ", matchedScripture.join("\r\n"))
+      comment.reply(`\`\`\`${matchedScripture.join("\r\n\r\n")}\`\`\`\r\n\r\n^(I'm a bot. Use an MCU movie shorthand, the timecode for a scene, and the number of lines you want to get your scripture, like so, without brackets: [IW] 2:34-2)`)
+    }
   }
 })
 
 function matchScripture(commentString) {
   const a = commentString
-  const scriptureRegex = /IW (\d{0,2}):{0,1}(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
+  const scriptureRegex = /IW (?:(\d{0,1}):)*(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
   if(a && a.match(scriptureRegex)) {
-    const timeframe = a.match(scriptureRegex)
-    const hoursMs = parseInt(timeframe[1] || 0)*3600000
-    const minutesMs = parseInt(timeframe[2])*60000
-    const secondsMs = parseInt(timeframe[3])*1000
+    const timecode = a.match(scriptureRegex)
+    const hoursMs = parseInt(timecode[1] || 0)*3600000
+    const minutesMs = parseInt(timecode[2])*60000
+    const secondsMs = parseInt(timecode[3])*1000
     const startMs = hoursMs + minutesMs + secondsMs
-    const numberOfLines = parseInt(timeframe[4]) || 1
+    const numberOfLines = parseInt(timecode[4]) || 1
     var parsedLines = 0
-    var returnArr = []
+    var returnArr = [scriptureRegex[0]]
 
     for(let i=0;i<data.length;i++) {
       if(parsedLines < numberOfLines) {
