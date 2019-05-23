@@ -4,9 +4,9 @@
 // destiny arrives all the same.
 
 require('dotenv').config()
-const Snoowrap = require('snoowrap');
-const snoostorm = require('snoostorm');
-
+const Snoowrap = require('snoowrap')
+const snoostorm = require('snoostorm')
+const botStartTime = Math.floor(new Date() / 1000)
 const parser = require('subtitles-parser')
 const fs = require('fs')
 const argv = require('minimist')(process.argv.slice(2))
@@ -20,19 +20,33 @@ const client = new Snoowrap({
     clientSecret: process.env.CLIENT_SECRET,
     username: process.env.REDDIT_USER,
     password: process.env.REDDIT_PASS
-});
+})
 const comments = new snoostorm.CommentStream(client, {
   subreddit: 'testingground4bots',
   limit: 10,
   pollTime: 2000
 })
+console.log(botStartTime)
 comments.on('item', (comment) => {
-  console.log(comment)
+  console.log(botStartTime + 28800)
+  console.log(comment.created)
+  console.log(comment.body)
+  if(botStartTime + 28800 < comment.created) {
+    // Comment was created after the bot started, so it won't respond
+    // more than once. Also Snoowrap/storm has bug that causes the unix-
+    // time to be ahead for 8 hours.
+    console.log('a new comment has been posted!')
+    // const matchedScripture = matchScripture(comment.body)
+    // if(matchedScripture) {
+    //   console.log("Replying: ", matchedScripture.join("\r\n"))
+    //   comment.reply(matchedScripture.join("\r\n"))
+    // }
+  }
 })
-console.log(comments)
 
 function matchScripture(commentString) {
-  const scriptureRegex = /(\d{0,2}):{0,1}(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
+  const a = commentString
+  const scriptureRegex = /IW (\d{0,2}):{0,1}(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
   if(a && a.match(scriptureRegex)) {
     const timeframe = a.match(scriptureRegex)
     const hoursMs = parseInt(timeframe[1] || 0)*3600000
