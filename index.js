@@ -38,7 +38,7 @@ comments.on('item', (comment) => {
     const matchedScripture = matchScripture(comment.body)
     if(matchedScripture) {
       console.log("Replying: ", matchedScripture.join("\r\n"))
-      comment.reply(`\`\`\`${matchedScripture.join("\r\n\r\n")}\`\`\`\r\n\r\n^(I'm a bot. Use an MCU movie shorthand, the timecode for a scene, and the number of lines you want to get your scripture, like so, without brackets: [IW] 2:34-2)`)
+      comment.reply(`\`\`\`${matchedScripture.join("\r\n\r\n")}\r\n\`\`\`\r\n\r\n^(I'm a bot. Use an MCU movie shorthand, the timecode for a scene, and the number of lines you want to get your scripture, like so, without brackets: [IW] 2:34-2)`)
     }
   }
 })
@@ -54,7 +54,7 @@ function matchScripture(commentString) {
     const startMs = hoursMs + minutesMs + secondsMs
     const numberOfLines = parseInt(timecode[4]) || 1
     var parsedLines = 0
-    var returnArr = [scriptureRegex[0]]
+    var returnArr = []
 
     for(let i=0;i<data.length;i++) {
       if(parsedLines < numberOfLines) {
