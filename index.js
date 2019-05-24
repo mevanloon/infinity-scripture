@@ -22,9 +22,9 @@ const client = new Snoowrap({
     password: process.env.REDDIT_PASS
 })
 const comments = new snoostorm.CommentStream(client, {
-  subreddit: 'testingground4bots',
+  subreddit: 'thanosdidnothingwrong',
   limit: 10,
-  pollTime: 2000
+  pollTime: 20000
 })
 console.log(botStartTime)
 comments.on('item', (comment) => {
@@ -38,7 +38,7 @@ comments.on('item', (comment) => {
     const matchedScripture = matchScripture(comment.body)
     if(matchedScripture) {
       console.log("Replying: ", matchedScripture.join("\r\n"))
-      comment.reply(`\`\`\`${matchedScripture.join("\r\n\r\n")}\r\n\`\`\`\r\n\r\n^(I'm a bot. Use an MCU movie shorthand, the timecode for a scene, and the number of lines you want to get your scripture, like so, without brackets: [IW] 2:34-2)`)
+      comment.reply(`\`\`\`\r\n${matchedScripture.join("\r\n\r\n")}\r\n\`\`\`\r\n\r\n^(I'm a bot. Use an MCU movie shorthand, the timecode for a scene, and the number of lines you want to get your scripture, like so, without brackets: [IW] 2:34-2)`)
     }
   }
 })
