@@ -1,5 +1,9 @@
 # Infinity Scripture
 
+## Note: the bot is currently offline
+I might have accidentaly triggered the automod or something, as the bot got shadowbanned. For all I know this is temporary. Will work on after 24, probably monday.
+
+## What is this?
 Infinity-scripture is a Reddit bot that automatically quotes parts of MCU movies. At the moment the bot is limited to Infinity War.
 
 ## Usage
