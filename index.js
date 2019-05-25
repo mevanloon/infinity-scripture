@@ -50,15 +50,17 @@ comments.on('item', (comment) => {
       scriptureLines = scriptureLines.map(q => q.replace("\r\n", "\r\n\r\n>"))
       scriptureLines = scriptureLines.join("\r\n\r\n>")
 
-      console.log(`>${scriptureLines}\r\n\r\n\- *${chapter}*\r\n\r\n^(I'm a bot. [Learn how to use me.](https://github.com/mevanloon/infinity-scripture))`)
 
-      comment.reply(`>${scriptureLines}\r\n\r\n\- *${chapter}*\r\n\r\n^(I'm a bot. [Learn how to use me.](https://github.com/mevanloon/infinity-scripture))`)
+      const reply = comment.reply(`>${scriptureLines}\r\n\r\n\- *${chapter}*\r\n\r\n^(I'm a bot. [Learn how to use me.](https://github.com/mevanloon/infinity-scripture))`)
+      console.log('Replying:')
+      console.log(`>${scriptureLines}\r\n\r\n\- *${chapter}*\r\n\r\n^(I'm a bot. [Learn how to use me.](https://github.com/mevanloon/infinity-scripture))`)
+      // reply.then(r => console.log('Status: ', r))
     }
   }
 })
 
 function matchScripture(commentString) {
-  const scriptureRegex = /Infinity War|IW|Ragnarok (?:(\d{0,1}):)*(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
+  const scriptureRegex = /(?:Infinity War|IW|Ragnarok) (?:(\d{0,1}):)*(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
   const timecode = commentString.match(scriptureRegex)
 
   if(timecode) {
