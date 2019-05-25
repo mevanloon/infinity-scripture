@@ -30,7 +30,7 @@ const client = new Snoowrap({
 const comments = new snoostorm.CommentStream(client, {
   subreddit: process.env.subreddit,
   limit: 10,
-  pollTime: 2000
+  pollTime: 20000
 })
 console.log("Starting at mtime: " + botStartTime)
 comments.on('item', (comment) => {
@@ -44,8 +44,7 @@ comments.on('item', (comment) => {
     if(matchedScripture) {
       const { chapter } = matchedScripture
       var { scriptureLines } = matchedScripture
-      console.log("Trigger comment found at mtime: " + botStartTime + 28800)
-      console.log(comment.created)
+      console.log("Trigger comment found at mtime: " + comment.created)
       console.log(comment.body)
 
       scriptureLines = scriptureLines.map(q => q.replace("\r\n", "\r\n\r\n>"))
