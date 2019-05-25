@@ -28,7 +28,7 @@ const client = new Snoowrap({
     password: process.env.REDDIT_PASS
 })
 const comments = new snoostorm.CommentStream(client, {
-  subreddit: 'testingground4bots',
+  subreddit: 'thanosdidnothingwrong',
   limit: 10,
   pollTime: 2000
 })
