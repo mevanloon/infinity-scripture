@@ -38,14 +38,14 @@ comments.on('item', (comment) => {
     // Comment was created after the bot started, so it won't respond
     // more than once. Also Snoowrap/storm has bug that causes the unix-
     // time to be ahead for 8 hours.
+    console.log("Reading and parsing comment found at: " + comment.created)
+    console.log(comment.body)
 
     const matchedScripture = matchScripture(comment.body)
 
     if(matchedScripture) {
       const { chapter } = matchedScripture
       var { scriptureLines } = matchedScripture
-      console.log("Trigger comment found at mtime: " + comment.created)
-      console.log(comment.body)
 
       scriptureLines = scriptureLines.map(q => q.replace("\r\n", "\r\n\r\n>"))
       scriptureLines = scriptureLines.join("\r\n\r\n>")
