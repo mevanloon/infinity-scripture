@@ -22,49 +22,59 @@ const client = new Snoowrap({
     password: process.env.REDDIT_PASS
 })
 const comments = new snoostorm.CommentStream(client, {
-  subreddit: 'thanosdidnothingwrong',
+  subreddit: 'testingground4bots',
   limit: 10,
-  pollTime: 20000
+  pollTime: 2000
 })
-console.log(botStartTime)
+console.log("Starting at mtime: " + botStartTime)
 comments.on('item', (comment) => {
-  console.log(botStartTime + 28800)
-  console.log(comment.created)
-  console.log(comment.body)
   if(botStartTime + 28800 < comment.created) {
     // Comment was created after the bot started, so it won't respond
     // more than once. Also Snoowrap/storm has bug that causes the unix-
     // time to be ahead for 8 hours.
+
     const matchedScripture = matchScripture(comment.body)
+
     if(matchedScripture) {
-      console.log("Replying: ", matchedScripture.join("\r\n"))
-      comment.reply(`\`\`\`\r\n${matchedScripture.join("\r\n\r\n")}\r\n\`\`\`\r\n\r\n^(I'm a bot. Use an MCU movie shorthand, the timecode for a scene, and the number of lines you want to get your scripture, like so, without brackets: [IW] 2:34-2)`)
+      const { chapter } = matchedScripture
+      var { scriptureLines } = matchedScripture
+      console.log("Trigger comment found at mtime: " + botStartTime + 28800)
+      console.log(comment.created)
+      console.log(comment.body)
+
+      scriptureLines = scriptureLines.map(q => q.replace("\r\n", "\r\n\r\n>"))
+      scriptureLines = scriptureLines.join("\r\n\r\n>")
+
+      console.log(`>${scriptureLines}\r\n\r\n\- *${chapter}*\r\n\r\n^(I'm a bot. [Learn how to use me.](https://github.com/mevanloon/infinity-scripture))`)
+
+      comment.reply(`>${scriptureLines}\r\n\r\n\- *${chapter}*\r\n\r\n^(I'm a bot. [Learn how to use me.](https://github.com/mevanloon/infinity-scripture))`)
     }
   }
 })
 
 function matchScripture(commentString) {
-  const a = commentString
   const scriptureRegex = /IW (?:(\d{0,1}):)*(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
-  if(a && a.match(scriptureRegex)) {
-    const timecode = a.match(scriptureRegex)
+  const timecode = commentString.match(scriptureRegex)
+
+  if(timecode) {
+    const chapter = timecode[0].replace(" ", " ")
     const hoursMs = parseInt(timecode[1] || 0)*3600000
     const minutesMs = parseInt(timecode[2])*60000
     const secondsMs = parseInt(timecode[3])*1000
     const startMs = hoursMs + minutesMs + secondsMs
     const numberOfLines = parseInt(timecode[4]) || 1
     var parsedLines = 0
-    var returnArr = []
+    var scriptureLines = []
 
     for(let i=0;i<data.length;i++) {
       if(parsedLines < numberOfLines) {
         if(data[i].startTime > startMs) {
-          returnArr.push(data[i].text)
+          scriptureLines.push(data[i].text)
           parsedLines++
         }
       } else break
     }
-    return returnArr
+    return {chapter, scriptureLines}
   }
   else {
     return null

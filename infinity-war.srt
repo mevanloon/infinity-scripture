@@ -1,57 +1,53 @@
-1
-00:00:20,015 --> 00:00:25,020
-PERFECTLY BALANCED.
-
 2
 00:00:25,603 --> 00:00:27,522
-<i>This is the Asgardian</i>
+*This is the Asgardian*
 
 3
 00:00:27,522 --> 00:00:30,025
-<i>refugee vessel</i> Statesman.
+*refugee vessel* Statesman.
 
 4
 00:00:32,694 --> 00:00:34,029
-<i>We are under assault.</i>
+*We are under assault.*
 
 5
 00:00:34,029 --> 00:00:36,406
-<i>I repeat,
-we are under assault.</i>
+*I repeat,
+we are under assault.*
 
 6
 00:00:36,406 --> 00:00:39,993
-<i>The engines are dead,
-life support failing.</i>
+*The engines are dead,
+life support failing.*
 
 7
 00:00:39,993 --> 00:00:43,288
-<i>Requesting aid
-from any vessel within range.</i>
+*Requesting aid
+from any vessel within range.*
 
 8
 00:00:43,288 --> 00:00:47,292
-<i>We are 22 jump points
-out of Asgard.</i>
+*We are 22 jump points
+out of Asgard.*
 
 9
 00:00:47,292 --> 00:00:49,836
-<i>Our crew is made up
-of Asgardian families.</i>
+*Our crew is made up
+of Asgardian families.*
 
 10
 00:00:49,878 --> 00:00:51,588
-<i>We have
-very few soldiers here.</i>
+*We have
+very few soldiers here.*
 
 11
 00:00:51,588 --> 00:00:53,548
-<i>This is not a warcraft.</i>
+*This is not a warcraft.*
 
 12
 00:00:53,548 --> 00:00:55,550
-<i>I repeat,
-this is not a warcraft.</i>
+*I repeat,
+this is not a warcraft.*
 
 13
 00:01:08,938 --> 00:01:11,941
@@ -378,8 +374,8 @@ No. Loki.
 
 88
 00:10:37,090 --> 00:10:40,176
-<i>Seriously,
-you don't have any money?</i>
+*Seriously,
+you don't have any money?*
 
 89
 00:10:40,176 --> 00:10:43,346
@@ -1117,8 +1113,8 @@ Friday, what am I looking at?
 
 251
 00:17:52,942 --> 00:17:54,569
-<i>Not sure.
-I'm working on it.</i>
+*Not sure.
+I'm working on it.*
 
 252
 00:17:54,569 --> 00:17:56,654
@@ -1176,7 +1172,7 @@ Notify first responders.
 
 264
 00:19:02,887 --> 00:19:04,014
-<i>Will do.</i>
+*Will do.*
 
 265
 00:19:32,500 --> 00:19:35,462
@@ -1337,12 +1333,12 @@ Where'd that come from?
 
 300
 00:21:20,567 --> 00:21:21,651
-<i>It's nanotech.</i>
+*It's nanotech.*
 
 301
 00:21:21,651 --> 00:21:22,694
-<i>You like it?
-A little something I...</i>
+*You like it?
+A little something I...*
 
 302
 00:21:26,531 --> 00:21:28,825
@@ -1355,8 +1351,8 @@ won't be joining us...
 
 304
 00:21:39,669 --> 00:21:41,046
-<i>Gotta get that stone
-outta here, now.</i>
+*Gotta get that stone
+outta here, now.*
 
 305
 00:21:41,046 --> 00:21:42,547
@@ -1373,12 +1369,12 @@ Tony, you okay?
 308
 00:21:54,642 --> 00:21:56,686
 - How we doing? Good? Bad?
-- <i>Really, really good.</i>
+- *Really, really good.*
 
 309
 00:21:56,686 --> 00:21:57,896
-<i>Really good.
-Do you plan on helping out?</i>
+*Really good.
+Do you plan on helping out?*
 
 310
 00:21:57,896 --> 00:21:59,147
@@ -1386,7 +1382,7 @@ I'm trying. He won't come out.
 
 311
 00:22:01,066 --> 00:22:02,108
-<i>Hammer.</i>
+*Hammer.*
 
 312
 00:22:09,908 --> 00:22:12,952
@@ -1412,7 +1408,7 @@ What's up, Mr. Stark?
 
 317
 00:22:30,762 --> 00:22:33,598
-- <i>Kid, where'd you come from?</i>
+- *Kid, where'd you come from?*
 - A field trip to MoMA.
 
 318
@@ -1464,8 +1460,8 @@ No!
 
 328
 00:23:53,845 --> 00:23:55,388
-<i>Kid,
-that's the wizard. Get on it.</i>
+*Kid,
+that's the wizard. Get on it.*
 
 329
 00:23:55,388 --> 00:23:57,015
@@ -1490,7 +1486,7 @@ I'm being beamed up.
 
 334
 00:24:24,084 --> 00:24:25,335
-<i>Hang on, kid.</i>
+*Hang on, kid.*
 
 335
 00:24:41,059 --> 00:24:42,394
@@ -1502,8 +1498,8 @@ Ugh.
 
 337
 00:24:45,271 --> 00:24:47,065
-<i>Wong, you're invited
-to my wedding.</i>
+*Wong, you're invited
+to my wedding.*
 
 338
 00:24:54,739 --> 00:24:55,824
@@ -1544,12 +1540,12 @@ like a new car in here!
 
 346
 00:25:49,961 --> 00:25:50,962
-<i>Happy trails, kid.</i>
+*Happy trails, kid.*
 
 347
 00:25:50,962 --> 00:25:52,380
-- <i>Friday, send him home.</i>
-- <i>Yep.</i>
+- *Friday, send him home.*
+- *Yep.*
 
 348
 00:25:53,340 --> 00:25:54,924
@@ -1557,45 +1553,45 @@ Oh, come on!
 
 349
 00:26:03,266 --> 00:26:05,393
-<i>Boss, incoming call
-from Miss Potts.</i>
+*Boss, incoming call
+from Miss Potts.*
 
 350
 00:26:05,393 --> 00:26:06,436
-<i>Tony? Oh, my God.</i>
+*Tony? Oh, my God.*
 
 351
 00:26:06,436 --> 00:26:07,479
-<i>Are you all right?
-What's going on?</i>
+*Are you all right?
+What's going on?*
 
 352
 00:26:07,479 --> 00:26:08,563
-<i>Yeah, I'm fine.
-I just think</i>
+*Yeah, I'm fine.
+I just think*
 
 353
 00:26:08,563 --> 00:26:10,398
-<i>we might have to push
-our 8:30 res.</i>
+*we might have to push
+our 8:30 res.*
 
 354
 00:26:10,398 --> 00:26:11,524
-<i>Why?</i>
+*Why?*
 
 355
 00:26:11,524 --> 00:26:13,193
-<i>Just 'cause
-I'll probably</i>
+*Just 'cause
+I'll probably*
 
 356
 00:26:13,193 --> 00:26:15,820
-<i>not make it back for a while.</i>
+*not make it back for a while.*
 
 357
 00:26:15,820 --> 00:26:17,072
-<i>Tell me
-you're not on that ship.</i>
+*Tell me
+you're not on that ship.*
 
 358
 00:26:17,072 --> 00:26:18,323
@@ -1603,8 +1599,8 @@ Yeah.
 
 359
 00:26:18,323 --> 00:26:19,532
-<i>God, no, please tell me
-you're not on the ship.</i>
+*God, no, please tell me
+you're not on the ship.*
 
 360
 00:26:19,532 --> 00:26:21,326
@@ -1617,26 +1613,26 @@ I don't know what to say.
 
 362
 00:26:22,369 --> 00:26:24,079
-<i>Come back here, Tony.
-I swear to God.</i>
+*Come back here, Tony.
+I swear to God.*
 
 363
 00:26:24,079 --> 00:26:26,247
 - Pep.
-- <i>Come back here right now.</i>
+- *Come back here right now.*
 
 364
 00:26:26,247 --> 00:26:27,290
-<i>Come back.</i>
+*Come back.*
 
 365
 00:26:27,290 --> 00:26:30,043
-<i>Boss,
-we're losing her.</i>
+*Boss,
+we're losing her.*
 
 366
 00:26:30,043 --> 00:26:31,503
-<i>I'm going too.</i>
+*I'm going too.*
 
 367
 00:26:40,553 --> 00:26:41,971
@@ -2808,7 +2804,7 @@ We'll be safe.
 
 627
 00:42:52,275 --> 00:42:53,443
-<i>Zehobereians.</i>
+*Zehobereians.*
 
 628
 00:42:53,443 --> 00:42:55,362
@@ -2816,7 +2812,7 @@ Mother! Where's my mother?
 
 629
 00:42:55,362 --> 00:42:56,946
-<i>Choose a side or die.</i>
+*Choose a side or die.*
 
 630
 00:42:56,946 --> 00:42:58,448
@@ -2824,13 +2820,13 @@ Mother!
 
 631
 00:42:58,448 --> 00:43:00,950
-<i>One side
-is a revelation...</i>
+*One side
+is a revelation...*
 
 632
 00:43:00,950 --> 00:43:03,953
-<i>the other an honor
-known only to a few.</i>
+*the other an honor
+known only to a few.*
 
 633
 00:43:04,913 --> 00:43:06,956
@@ -2885,8 +2881,8 @@ Here. You try.
 
 645
 00:44:04,514 --> 00:44:07,809
-<i>Now, go in peace
-to meet your maker.</i>
+*Now, go in peace
+to meet your maker.*
 
 646
 00:44:09,185 --> 00:44:11,062
@@ -3306,22 +3302,22 @@ Magnificent!
 
 743
 00:50:49,753 --> 00:50:52,547
-<i>Is that sadness
-I sense in you, daughter?</i>
+*Is that sadness
+I sense in you, daughter?*
 
 744
 00:50:55,633 --> 00:50:58,261
-<i>In my heart,
-I knew you still cared.</i>
+*In my heart,
+I knew you still cared.*
 
 745
 00:51:05,560 --> 00:51:08,772
-<i>But one never knows for sure.</i>
+*But one never knows for sure.*
 
 746
 00:51:17,947 --> 00:51:20,784
-<i>Reality is often
-disappointing.</i>
+*Reality is often
+disappointing.*
 
 747
 00:51:23,953 --> 00:51:26,331
@@ -3454,7 +3450,7 @@ I like him.
 
 778
 00:54:12,038 --> 00:54:14,165
-<i>Still no word from Vision?</i>
+*Still no word from Vision?*
 
 779
 00:54:14,165 --> 00:54:17,585
@@ -3463,12 +3459,12 @@ somewhere over Edinburgh.
 
 780
 00:54:17,585 --> 00:54:18,795
-<i>On a stolen Quinjet</i>
+*On a stolen Quinjet*
 
 781
 00:54:18,795 --> 00:54:20,880
-<i>with four of the world's
-most wanted criminals.</i>
+*with four of the world's
+most wanted criminals.*
 
 782
 00:54:20,880 --> 00:54:22,590
@@ -3482,12 +3478,12 @@ call them that, right, sir?
 
 784
 00:54:24,134 --> 00:54:25,260
-<i>My God, Rhodes.</i>
+*My God, Rhodes.*
 
 785
 00:54:25,301 --> 00:54:28,888
-<i>Your talent for horseshit
-rivals my own.</i>
+*Your talent for horseshit
+rivals my own.*
 
 786
 00:54:28,888 --> 00:54:30,056
@@ -3501,8 +3497,8 @@ right here.
 
 788
 00:54:32,142 --> 00:54:35,520
-<i>I remember your signature
-on those papers, Colonel.</i>
+*I remember your signature
+on those papers, Colonel.*
 
 789
 00:54:35,937 --> 00:54:36,730
@@ -3515,7 +3511,7 @@ I paid for that.
 
 791
 00:54:40,942 --> 00:54:42,235
-<i>You have second thoughts?</i>
+*You have second thoughts?*
 
 792
 00:54:42,235 --> 00:54:43,987
@@ -3527,11 +3523,11 @@ Mr. Secretary.
 
 794
 00:54:55,999 --> 00:54:57,709
-<i>You got some nerve.</i>
+*You got some nerve.*
 
 795
 00:54:58,251 --> 00:55:00,086
-<i>I'll give you that.</i>
+*I'll give you that.*
 
 796
 00:55:00,086 --> 00:55:01,880
@@ -3540,11 +3536,11 @@ some of that right now.
 
 797
 00:55:02,756 --> 00:55:05,800
-<i>The world's on fire.</i>
+*The world's on fire.*
 
 798
 00:55:05,800 --> 00:55:09,512
-<i>And you think all is forgiven?</i>
+*And you think all is forgiven?*
 
 799
 00:55:09,512 --> 00:55:11,306
@@ -3576,7 +3572,7 @@ we'll fight you too.
 
 805
 00:55:28,907 --> 00:55:29,908
-<i>Arrest them.</i>
+*Arrest them.*
 
 806
 00:55:31,034 --> 00:55:32,661
@@ -4101,7 +4097,7 @@ Okay, okay... Uh...
 921
 01:01:34,522 --> 01:01:37,942
 Okay. Did you ever see
-this really old movie, <i>Aliens?</i>
+this really old movie, *Aliens?*
 
 922
 01:01:41,446 --> 01:01:44,366
@@ -4123,13 +4119,13 @@ in an instant.
 
 926
 01:01:58,046 --> 01:01:59,673
-<i>I gotta tell you,
-he's not really my friend.</i>
+*I gotta tell you,
+he's not really my friend.*
 
 927
 01:01:59,673 --> 01:02:02,384
-<i>Saving his life is more
-of a professional courtesy.</i>
+*Saving his life is more
+of a professional courtesy.*
 
 928
 01:02:04,219 --> 01:02:06,930
@@ -4672,40 +4668,40 @@ I never found the Soul Stone.
 
 1049
 01:09:22,824 --> 01:09:24,617
-<i>Accessing memory files.</i>
+*Accessing memory files.*
 
 1050
 01:09:24,659 --> 01:09:26,036
-<i>You know
-what he's about to do.</i>
+*You know
+what he's about to do.*
 
 1051
 01:09:26,036 --> 01:09:28,830
-<i>He's finally ready,
-and he's going for the stones.</i>
+*He's finally ready,
+and he's going for the stones.*
 
 1052
 01:09:28,830 --> 01:09:30,040
-- <i>All of them.</i>
-- <i>He can never get them all.</i>
+- *All of them.*
+- *He can never get them all.*
 
 1053
 01:09:30,040 --> 01:09:31,124
-<i>He will!</i>
+*He will!*
 
 1054
 01:09:31,124 --> 01:09:33,418
-<i>He can't, Nebula.</i>
+*He can't, Nebula.*
 
 1055
 01:09:33,418 --> 01:09:35,837
-<i>Because I found the map
-to the Soul Stone...</i>
+*Because I found the map
+to the Soul Stone...*
 
 1056
 01:09:35,837 --> 01:09:38,673
-<i>and I burned it to ash.
-I burned it.</i>
+*and I burned it to ash.
+I burned it.*
 
 1057
 01:09:43,678 --> 01:09:45,513
@@ -5686,11 +5682,11 @@ to save the universe.
 
 1275
 01:23:09,651 --> 01:23:10,819
-Like in <i>Footloose,</i> the movie?
+Like in *Footloose,* the movie?
 
 1276
 01:23:10,819 --> 01:23:12,779
-Exactly like <i>Footloose.</i>
+Exactly like *Footloose.*
 
 1277
 01:23:12,779 --> 01:23:14,489
@@ -6199,13 +6195,13 @@ God, I love this place.
 
 1393
 01:33:54,838 --> 01:33:57,007
-<i>Yeah, don't
-start celebrating yet, guys.</i>
+*Yeah, don't
+start celebrating yet, guys.*
 
 1394
 01:33:57,007 --> 01:33:58,925
-<i>We got more incoming
-outside the dome.</i>
+*We got more incoming
+outside the dome.*
 
 1395
 01:34:18,111 --> 01:34:19,195
@@ -6249,30 +6245,30 @@ And get this man a shield.
 
 1404
 01:34:47,098 --> 01:34:48,224
-<i>I don't think</i>
+*I don't think*
 
 1405
 01:34:48,224 --> 01:34:49,601
-<i>you get the scientifics here.</i>
+*you get the scientifics here.*
 
 1406
 01:34:49,601 --> 01:34:52,145
-<i>These rings are gigantic.
-You wanna get them moving...</i>
+*These rings are gigantic.
+You wanna get them moving...*
 
 1407
 01:34:52,145 --> 01:34:53,521
-<i>you're gonna need something
-a lot bigger</i>
+*you're gonna need something
+a lot bigger*
 
 1408
 01:34:53,521 --> 01:34:54,898
-<i>to yank 'em loose.</i>
+*to yank 'em loose.*
 
 1409
 01:34:54,898 --> 01:34:57,067
 - Leave that to me.
-- <i>Leave it to you?</i>
+- *Leave it to you?*
 
 1410
 01:34:57,067 --> 01:35:00,236
@@ -6281,7 +6277,7 @@ All you got is a rope and a...
 
 1411
 01:35:08,495 --> 01:35:09,579
-<i>Fire the engines!</i>
+*Fire the engines!*
 
 1412
 01:35:27,138 --> 01:35:29,891
@@ -6305,8 +6301,8 @@ Damn it.
 
 1417
 01:36:30,035 --> 01:36:31,411
-<i>The mechanism
-is crippled.</i>
+*The mechanism
+is crippled.*
 
 1418
 01:36:31,411 --> 01:36:33,038
@@ -6360,7 +6356,7 @@ without actually...
 
 1429
 01:37:09,157 --> 01:37:11,326
-<i>I'm okay. I'm okay.</i>
+*I'm okay. I'm okay.*
 
 1430
 01:37:12,744 --> 01:37:13,787
@@ -6442,17 +6438,17 @@ your wings singed.
 
 1448
 01:40:21,558 --> 01:40:22,934
-<i>Cap, if these things
-circle the perimeter</i>
+*Cap, if these things
+circle the perimeter*
 
 1449
 01:40:22,934 --> 01:40:24,102
-<i>and get in behind us...</i>
+*and get in behind us...*
 
 1450
 01:40:24,102 --> 01:40:26,438
-<i>there's nothing
-between them and Vision.</i>
+*there's nothing
+between them and Vision.*
 
 1451
 01:40:26,438 --> 01:40:28,440
@@ -6474,12 +6470,12 @@ Section Seventeen.
 
 1455
 01:40:40,452 --> 01:40:42,454
-<i>Requesting
-confirmation, My King.</i>
+*Requesting
+confirmation, My King.*
 
 1456
 01:40:42,454 --> 01:40:44,289
-<i>You said open the barrier?</i>
+*You said open the barrier?*
 
 1457
 01:40:44,289 --> 01:40:45,665
@@ -6776,8 +6772,8 @@ Where's Gamora?
 
 1525
 01:50:45,598 --> 01:50:46,975
-<i>Is he under?
-Don't let up.</i>
+*Is he under?
+Don't let up.*
 
 1526
 01:50:46,975 --> 01:50:49,602
@@ -6789,8 +6785,8 @@ Parker, help! Get over here.
 
 1528
 01:50:51,980 --> 01:50:54,232
-<i>She can't hold him
-much longer. Let's go.</i>
+*She can't hold him
+much longer. Let's go.*
 
 1529
 01:50:59,612 --> 01:51:00,947
@@ -6908,7 +6904,7 @@ Hey, stop! Stop!
 
 1555
 01:52:13,269 --> 01:52:14,521
-<i>Hey, stop! Stop!</i>
+*Hey, stop! Stop!*
 
 1556
 01:52:14,521 --> 01:52:16,272
@@ -7000,7 +6996,7 @@ Somebody get to Vision!
 
 1576
 01:55:43,438 --> 01:55:45,273
-- <i>I got him!</i>
+- *I got him!*
 - On my way.
 
 1577
@@ -7013,7 +7009,7 @@ She's not alone.
 
 1579
 01:56:21,184 --> 01:56:22,894
-<i>Oh, no, you don't.</i>
+*Oh, no, you don't.*
 
 1580
 01:56:22,894 --> 01:56:24,604
@@ -7027,12 +7023,12 @@ the crap outta the Hulk.
 
 1582
 01:56:27,190 --> 01:56:28,233
-<i>What? No! No!</i>
+*What? No! No!*
 
 1583
 01:56:31,778 --> 01:56:34,531
-<i>Guys!
-Vision needs backup, now!</i>
+*Guys!
+Vision needs backup, now!*
 
 1584
 01:56:36,533 --> 01:56:38,285
@@ -7071,11 +7067,11 @@ I'll do it myself!
 
 1592
 01:56:59,389 --> 01:57:01,266
-<i>Come on! Yeah!</i>
+*Come on! Yeah!*
 
 1593
 01:57:13,570 --> 01:57:15,280
-<i>See ya!</i>
+*See ya!*
 
 1594
 01:57:26,666 --> 01:57:29,336
@@ -7550,21 +7546,21 @@ Oh, God.
 
 1707
 02:27:33,431 --> 02:27:35,016
-<i>Still no word
-from Stark?</i>
+*Still no word
+from Stark?*
 
 1708
 02:27:35,016 --> 02:27:36,351
-<i>No, not yet.</i>
+*No, not yet.*
 
 1709
 02:27:36,351 --> 02:27:37,477
-<i>We're watching every satellite</i>
+*We're watching every satellite*
 
 1710
 02:27:37,477 --> 02:27:39,646
-<i>on both hemispheres,
-but still nothing.</i>
+*on both hemispheres,
+but still nothing.*
 
 1711
 02:27:39,646 --> 02:27:41,731
