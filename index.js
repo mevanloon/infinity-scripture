@@ -10,8 +10,14 @@ const botStartTime = Math.floor(new Date() / 1000)
 const parser = require('subtitles-parser')
 const fs = require('fs')
 const argv = require('minimist')(process.argv.slice(2))
-const srt = fs.readFileSync('infinity-war.srt', {encoding: 'utf8'})
-const data = parser.fromSrt(srt, true)
+const subtitles = {
+  IW: fs.readFileSync('infinity-war.srt', {encoding: 'utf8'}),
+  Ragnarok: fs.readFileSync('ragnarok.srt', {encoding: 'utf8'}),
+}
+const quotes = {
+  IW: parser.fromSrt(subtitles.IW, true),
+  Ragnarok: parser.fromSrt(subtitles.Ragnarok, true),
+}
 const a = argv._[0]
 
 const client = new Snoowrap({
@@ -53,10 +59,15 @@ comments.on('item', (comment) => {
 })
 
 function matchScripture(commentString) {
-  const scriptureRegex = /IW (?:(\d{0,1}):)*(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
+  const scriptureRegex = /Infinity War|IW|Ragnarok (?:(\d{0,1}):)*(\d{1,2}):(\d{1,2})-{0,1}(\d{0,2})/
   const timecode = commentString.match(scriptureRegex)
 
   if(timecode) {
+    var movie = 'IW'
+    if(timecode[0].match(/^Ragnarok/i))
+      movie = 'Ragnarok'
+    if(timecode[0].match(/Infinity War|IW/i))
+      movie = 'IW'
     const chapter = timecode[0].replace(" ", " ")
     const hoursMs = parseInt(timecode[1] || 0)*3600000
     const minutesMs = parseInt(timecode[2])*60000
@@ -66,10 +77,10 @@ function matchScripture(commentString) {
     var parsedLines = 0
     var scriptureLines = []
 
-    for(let i=0;i<data.length;i++) {
+    for(let i=0;i<quotes[movie].length;i++) {
       if(parsedLines < numberOfLines) {
-        if(data[i].startTime > startMs) {
-          scriptureLines.push(data[i].text)
+        if(quotes[movie][i].startTime > startMs) {
+          scriptureLines.push(quotes[movie][i].text)
           parsedLines++
         }
       } else break

@@ -410,7 +410,7 @@ Heimdall? I'm running short on options.
 
 99
 00:07:46,633 --> 00:07:48,926
-<i>Heimdall?</i>
+*Heimdall?*
 
 100
 00:07:48,927 --> 00:07:50,549
@@ -673,7 +673,7 @@ It's an interesting play. What's it called?
 
 162
 00:12:05,225 --> 00:12:07,267
-<i>The Tragedy of Loki of Asgard.</i>
+*The Tragedy of Loki of Asgard.*
 
 163
 00:12:07,268 --> 00:12:09,391
@@ -1736,56 +1736,56 @@ Let's go see my palace.
 
 417
 00:35:12,027 --> 00:35:14,480
-<i>Fear not, for you are found.</i>
+*Fear not, for you are found.*
 
 418
 00:35:16,489 --> 00:35:18,532
-<i>You are home, and there is no going back.</i>
+*You are home, and there is no going back.*
 
 419
 00:35:21,411 --> 00:35:23,955
-<i>No one leaves this place.</i>
+*No one leaves this place.*
 
 420
 00:35:24,080 --> 00:35:25,827
-<i>But what is this place?</i>
+*But what is this place?*
 
 421
 00:35:25,832 --> 00:35:29,127
-<i>The answer is Sakaar.</i>
+*The answer is Sakaar.*
 
 422
 00:35:30,962 --> 00:35:33,255
-<i>Surrounded by cosmic gateways...</i>
+*Surrounded by cosmic gateways...*
 
 423
 00:35:33,256 --> 00:35:36,175
-<i>Sakaar lives on the edge
-of the known and unknown.</i>
+*Sakaar lives on the edge
+of the known and unknown.*
 
 424
 00:35:36,301 --> 00:35:38,010
-<i>It is the collection point</i>
+*It is the collection point*
 
 425
 00:35:38,011 --> 00:35:39,884
-<i>for all lost and unloved things...</i>
+*for all lost and unloved things...*
 
 426
 00:35:40,013 --> 00:35:41,840
-<i>like you.</i>
+*like you.*
 
 427
 00:35:41,848 --> 00:35:44,676
-<i>But here on Sakaar, you are significant.</i>
+*But here on Sakaar, you are significant.*
 
 428
 00:35:44,809 --> 00:35:46,268
-<i>You are valuable.</i>
+*You are valuable.*
 
 429
 00:35:46,269 --> 00:35:47,978
-<i>Here you are loved.</i>
+*Here you are loved.*
 
 430
 00:35:47,979 --> 00:35:49,104
@@ -1793,53 +1793,53 @@ What the hell?
 
 431
 00:35:49,105 --> 00:35:52,354
-<i>And no one loves you more
-than the Grandmaster.</i>
+*And no one loves you more
+than the Grandmaster.*
 
 432
 00:35:52,442 --> 00:35:54,485
-<i>He is the original,</i>
+*He is the original,*
 
 433
 00:35:54,486 --> 00:35:56,734
-<i>the first lost and the first found...</i>
+*the first lost and the first found...*
 
 434
 00:35:56,738 --> 00:35:58,030
-<i>the creator of Sakaar...</i>
+*the creator of Sakaar...*
 
 435
 00:35:58,156 --> 00:36:01,405
-<i>and father of the Contest of Champions.</i>
+*and father of the Contest of Champions.*
 
 436
 00:36:01,534 --> 00:36:05,864
-<i>Where once you were nothing,
-now you are something.</i>
+*Where once you were nothing,
+now you are something.*
 
 437
 00:36:05,997 --> 00:36:09,246
-<i>You are the property of the Grandmaster.</i>
+*You are the property of the Grandmaster.*
 
 438
 00:36:09,417 --> 00:36:10,960
-<i>Congratulations!</i>
+*Congratulations!*
 
 439
 00:36:11,002 --> 00:36:14,547
-<i>You will meet the Grandmaster in 5 seconds.</i>
+*You will meet the Grandmaster in 5 seconds.*
 
 440
 00:36:14,798 --> 00:36:16,250
-<i>Prepare yourself.</i>
+*Prepare yourself.*
 
 441
 00:36:17,967 --> 00:36:19,294
-<i>Prepare yourself.</i>
+*Prepare yourself.*
 
 442
 00:36:20,804 --> 00:36:24,224
-<i>You are now meeting the Grandmaster.</i>
+*You are now meeting the Grandmaster.*
 
 443
 00:36:37,070 --> 00:36:39,398
@@ -3094,130 +3094,130 @@ No!
 
 737
 00:51:36,260 --> 00:51:39,095
-<i>Wow! Look at all of you</i>.
+*Wow! Look at all of you*.
 
 738
 00:51:39,096 --> 00:51:40,969
-<i>What a show! What a night!</i>
+*What a show! What a night!*
 
 739
 00:51:41,015 --> 00:51:42,216
-<i>Who's having fun?</i>
+*Who's having fun?*
 
 740
 00:51:42,933 --> 00:51:45,010
-<i>Please, I'm your host.</i>
+*Please, I'm your host.*
 
 741
 00:51:45,060 --> 00:51:46,311
-<i>Big round of applause</i>
+*Big round of applause*
 
 742
 00:51:46,312 --> 00:51:48,389
-<i>for all of our undercard competitors...</i>
+*for all of our undercard competitors...*
 
 743
 00:51:48,439 --> 00:51:51,358
-<i>who today died so gruesomely.</i>
+*who today died so gruesomely.*
 
 744
 00:51:51,400 --> 00:51:52,727
-<i>Good sports.</i>
+*Good sports.*
 
 745
 00:51:52,776 --> 00:51:54,569
-<i>What a show! What a night!</i>
+*What a show! What a night!*
 
 746
 00:51:55,070 --> 00:51:58,900
-<i>This is what you've come
-for, and so have I.</i>
+*This is what you've come
+for, and so have I.*
 
 747
 00:52:04,747 --> 00:52:07,665
-<i>And now, without further ado...</i>
+*And now, without further ado...*
 
 748
 00:52:07,666 --> 00:52:10,369
-<i>it's main event time.</i>
+*it's main event time.*
 
 749
 00:52:12,087 --> 00:52:13,630
-<i>Making his first appearance,</i>
+*Making his first appearance,*
 
 750
 00:52:13,631 --> 00:52:15,378
-<i>though he looks quite promising...</i>
+*though he looks quite promising...*
 
 751
 00:52:15,633 --> 00:52:17,506
-<i>got a couple of tricks up his sleeve.</i>
+*got a couple of tricks up his sleeve.*
 
 752
 00:52:17,801 --> 00:52:20,550
-<i>I'll say no more, see what you think.</i>
+*I'll say no more, see what you think.*
 
 753
 00:52:20,846 --> 00:52:22,446
-<i>Ladies and gentlemen, I give you...</i>
+*Ladies and gentlemen, I give you...*
 
 754
 00:52:23,140 --> 00:52:25,513
-<i>Lord of Thunder.</i>
+*Lord of Thunder.*
 
 755
 00:52:48,624 --> 00:52:50,875
-<i>Watch out for his fingers.
-They make sparks.</i>
+*Watch out for his fingers.
+They make sparks.*
 
 756
 00:52:50,876 --> 00:52:52,419
-<i>Okay, this is it.</i>
+*Okay, this is it.*
 
 757
 00:52:52,711 --> 00:52:55,835
-<i>Let's get ready to welcome
-this guy. Here he comes.</i>
+*Let's get ready to welcome
+this guy. Here he comes.*
 
 758
 00:53:04,765 --> 00:53:06,262
-<i>He is a creature.</i>
+*He is a creature.*
 
 759
 00:53:06,266 --> 00:53:07,642
-<i>What can we say about him?</i>
+*What can we say about him?*
 
 760
 00:53:07,643 --> 00:53:10,312
-<i>Well, he's unique. There's none like him.</i>
+*Well, he's unique. There's none like him.*
 
 761
 00:53:10,354 --> 00:53:12,978
-<i>I feel a special connection with him.</i>
+*I feel a special connection with him.*
 
 762
 00:53:14,608 --> 00:53:15,980
-<i>He's undefeated.</i>
+*He's undefeated.*
 
 763
 00:53:17,236 --> 00:53:18,858
-<i>He's the reigning.</i>
+*He's the reigning.*
 
 764
 00:53:21,073 --> 00:53:23,321
-<i>He's the defending.</i>
+*He's the defending.*
 
 765
 00:53:23,617 --> 00:53:24,818
-<i>Ladies and gentlemen...</i>
+*Ladies and gentlemen...*
 
 766
 00:53:25,035 --> 00:53:26,236
-<i>I give you...</i>
+*I give you...*
 
 767
 00:53:30,916 --> 00:53:34,791
-<i>Your Incredible...</i>
+*Your Incredible...*
 
 768
 00:53:38,424 --> 00:53:40,467
@@ -3761,7 +3761,7 @@ Heimdall, I know you can see me.
 
 899
 01:06:46,669 --> 01:06:48,587
-<i>I need you to help me.</i>
+*I need you to help me.*
 
 900
 01:06:50,840 --> 01:06:52,041
@@ -4286,8 +4286,8 @@ Come on.
 
 1024
 01:13:54,055 --> 01:13:56,553
-<i>Welcome. Voice
-activation required.</i>
+*Welcome. Voice
+activation required.*
 
 1025
 01:13:56,641 --> 01:13:58,224
@@ -4295,7 +4295,7 @@ Thor.
 
 1026
 01:13:58,225 --> 01:13:59,517
-<i>Access denied.</i>
+*Access denied.*
 
 1027
 01:13:59,936 --> 01:14:02,389
@@ -4303,7 +4303,7 @@ Thor, son of Odin.
 
 1028
 01:14:02,480 --> 01:14:03,681
-<i>Access denied.</i>
+*Access denied.*
 
 1029
 01:14:03,731 --> 01:14:04,932
@@ -4311,7 +4311,7 @@ God of Thunder.
 
 1030
 01:14:04,941 --> 01:14:06,268
-<i>Access denied.</i>
+*Access denied.*
 
 1031
 01:14:06,359 --> 01:14:07,560
@@ -4319,7 +4319,7 @@ Strongest Avenger.
 
 1032
 01:14:07,652 --> 01:14:09,070
-<i>Access denied.</i>
+*Access denied.*
 
 1033
 01:14:09,153 --> 01:14:10,654
@@ -4327,7 +4327,7 @@ Strongest Avenger.
 
 1034
 01:14:10,655 --> 01:14:12,198
-<i>Access denied.</i>
+*Access denied.*
 
 1035
 01:14:12,490 --> 01:14:14,693
@@ -4339,7 +4339,7 @@ Point Break.
 
 1037
 01:14:16,327 --> 01:14:18,530
-<i>Welcome, Point Break.</i>
+*Welcome, Point Break.*
 
 1038
 01:14:20,122 --> 01:14:22,165
@@ -4363,32 +4363,32 @@ Don't go!
 
 1043
 01:14:32,718 --> 01:14:34,010
-<i>Nice work, big guy.</i>
+*Nice work, big guy.*
 
 1044
 01:14:34,011 --> 01:14:35,470
-<i>We don't know where Ultron's headed,</i>
+*We don't know where Ultron's headed,*
 
 1045
 01:14:35,471 --> 01:14:37,719
-<i>but you're going very high, very fast.</i>
+*but you're going very high, very fast.*
 
 1046
 01:14:37,807 --> 01:14:39,808
-<i>So, I need you to turn
-this bird around, okay?</i>
+*So, I need you to turn
+this bird around, okay?*
 
 1047
 01:14:40,101 --> 01:14:42,725
-<i>We can't track you in stealth mode...</i>
+*We can't track you in stealth mode...*
 
 1048
 01:14:42,937 --> 01:14:44,639
-<i>so I need you to help me out. Okay?</i>
+*so I need you to help me out. Okay?*
 
 1049
 01:14:48,317 --> 01:14:49,894
-<i>I need you to...</i>
+*I need you to...*
 
 1050
 01:15:05,793 --> 01:15:08,371
@@ -4498,7 +4498,7 @@ Banner, there's something you should know.
 
 1075
 01:16:15,780 --> 01:16:16,905
-<i>Voice activation required.</i>
+*Voice activation required.*
 
 1076
 01:16:16,906 --> 01:16:18,107
@@ -4506,7 +4506,7 @@ Banner.
 
 1077
 01:16:18,115 --> 01:16:19,737
-<i>Welcome, strongest Avenger.</i>
+*Welcome, strongest Avenger.*
 
 1078
 01:16:19,742 --> 01:16:20,825
@@ -4526,20 +4526,20 @@ Yeah, about that.
 
 1082
 01:16:36,300 --> 01:16:37,634
-<i>Sakaar, hear ye.</i>
+*Sakaar, hear ye.*
 
 1083
 01:16:37,635 --> 01:16:39,553
-<i>Attention please. I have some bad news.</i>
+*Attention please. I have some bad news.*
 
 1084
 01:16:39,595 --> 01:16:42,469
-<i>My beloved exalted champion
-has turned up missing.</i>
+*My beloved exalted champion
+has turned up missing.*
 
 1085
 01:16:42,473 --> 01:16:44,808
-<i>Take to the streets. Celebrate my champion.</i>
+*Take to the streets. Celebrate my champion.*
 
 1086
 01:16:44,809 --> 01:16:46,010
@@ -4578,11 +4578,11 @@ Well, it's true.
 
 1094
 01:16:58,155 --> 01:17:00,281
-<i>It seems that that criminally seductive.</i>
+*It seems that that criminally seductive.*
 
 1095
 01:17:00,282 --> 01:17:02,826
-<i>Lord of Thunder has stolen him away.</i>
+*Lord of Thunder has stolen him away.*
 
 1096
 01:17:02,993 --> 01:17:05,491
@@ -5887,7 +5887,7 @@ ship she told us to get?
 
 1399
 01:30:25,962 --> 01:30:27,163
-<i>The Commodore.</i>
+*The Commodore.*
 
 1400
 01:30:27,881 --> 01:30:29,082
@@ -5988,24 +5988,24 @@ It's just another spaceship.
 
 1423
 01:31:52,808 --> 01:31:54,633
-<i>Loyal Sakaarians...</i>
+*Loyal Sakaarians...*
 
 1424
 01:31:54,634 --> 01:31:56,593
-<i>Lord of Thunder has stolen my ship</i>
+*Lord of Thunder has stolen my ship*
 
 1425
 01:31:56,594 --> 01:31:58,171
-<i>and my favourite champion.</i>
+*and my favourite champion.*
 
 1426
 01:31:59,597 --> 01:32:02,891
-<i>Sakaarians, take to the skies.
-Bring him down.</i>
+*Sakaarians, take to the skies.
+Bring him down.*
 
 1427
 01:32:02,892 --> 01:32:04,719
-<i>Do not let him leave this planet.</i>
+*Do not let him leave this planet.*
 
 1428
 01:32:17,741 --> 01:32:19,193
@@ -6014,7 +6014,7 @@ Bring him down.</i>
 
 1429
 01:32:21,698 --> 01:32:23,162
-<i>Open the doors.</i>
+*Open the doors.*
 
 1430
 01:32:23,163 --> 01:32:24,660
@@ -6042,12 +6042,12 @@ Where are the guns on this ship?
 
 1436
 01:32:50,523 --> 01:32:52,020
-<i>There aren't any.</i>
+*There aren't any.*
 
 1437
 01:32:52,067 --> 01:32:53,817
 - It's a leisure vessel.
-<i>- What?</i>
+*- What?*
 
 1438
 01:32:53,818 --> 01:32:55,444
@@ -6122,15 +6122,15 @@ That looks like a gun.
 
 1455
 01:34:37,923 --> 01:34:39,548
-<i>It's my birthday.</i>
+*It's my birthday.*
 
 1456
 01:34:39,549 --> 01:34:40,796
-<i>It's my birthday.</i>
+*It's my birthday.*
 
 1457
 01:34:41,551 --> 01:34:42,752
-<i>It's my birthday.</i>
+*It's my birthday.*
 
 1458
 01:34:50,602 --> 01:34:51,894
